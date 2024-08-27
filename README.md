@@ -21,6 +21,7 @@ C) dart --verify
 D) dart --version
 
 Answer: D
+
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
@@ -29,6 +30,7 @@ C) Run Flutter Doctor
 D) Create a new Flutter project
 
 Answer: B
+
 4. What command is used to run a newly created Flutter app?
 
 A) flutter start
@@ -37,6 +39,7 @@ C) flutter run
 D) flutter init
 
 Answer: C
+
 #Python Installation
 
 What is the first step to install Python on a Windows system?
@@ -47,6 +50,7 @@ C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
 Answer: B
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
@@ -55,6 +59,7 @@ C) Add Python to PATH
 D) Install all available features
 
 Answer: C
+
 How do you verify Python installation on any system?
 
 A) By running python --version
@@ -63,6 +68,7 @@ C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
 Answer: A
+
 What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
@@ -71,6 +77,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
 Answer: A
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
@@ -79,6 +86,7 @@ C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
 Answer: C
+
 #MySQL Installation
 
 What is the first step to install MySQL on Windows?
@@ -89,6 +97,7 @@ C) Install MySQL Workbench
 D) Set up a root password
 
 Answer: B
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
@@ -97,6 +106,7 @@ C) Full
 D) Custom
 
 Answer: D
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
@@ -105,6 +115,7 @@ C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 
 Answer: A
+
 What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
@@ -113,6 +124,7 @@ C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
 
 Answer: B
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
